@@ -6,7 +6,7 @@
 ###1、官网上下载 Gradle 最新发布包
 [http://services.gradle.org/distributions/](http://services.gradle.org/distributions/)
 
-![alt 下载发布包](./Gradle_img/gra1.png)
+![alt 下载发布包](https://github.com/coder-kk596/pro071101/blob/master/gradle_img/gra1.png?raw=true)
 
 ###2、解压 ZIP 文件
 将解压后的文件放到`/usr/local` 下 
