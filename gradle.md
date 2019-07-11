@@ -6,7 +6,7 @@
 ###1、官网上下载 Gradle 最新发布包
 [http://services.gradle.org/distributions/](http://services.gradle.org/distributions/)
 
-![alt 下载发布包](/Users/coder/desktop/Gradle_img/gra1.png)
+![alt 下载发布包](./Gradle_img/gra1.png)
 
 ###2、解压 ZIP 文件
 将解压后的文件放到`/usr/local` 下 
@@ -15,11 +15,11 @@
 #### 将 gradle/bin 添加到 PATH 环境变量中 
 `vi ./.bash_profile`
 
-![alt 下载发布包](/Users/coder/desktop/Gradle_img/gra2.png)
+![alt 下载发布包](./Gradle_img/gra2.png)
 
 #### 输入 E，并进入 `insert` 模式
 
-![alt 下载发布包](/Users/coder/desktop/Gradle_img/gra3.png)
+![alt 下载发布包](./Gradle_img/gra3.png)
 
 #### 添加环境变量
 
@@ -32,7 +32,7 @@
 #### 测试安装  
 `gradle -v`
 
-![alt 下载发布包](/Users/coder/desktop/Gradle_img/gra4.png)
+![alt 下载发布包](./Gradle_img/gra4.png)
 
 #### JVM 参数配置
 
@@ -132,7 +132,7 @@ Gradle 脚本采用 Groovy 书写
 
 运行结果：
 
-![alt 运行结果](/Users/coder/desktop/Gradle_img/gra8.png)
+![alt 运行结果](./Gradle_img/gra8.png)
 
 ### 6、动态任务
 #### 创建动态任务
@@ -144,7 +144,7 @@ Gradle 脚本采用 Groovy 书写
 命令：`gradle -q task0|task1|task2|task3`
 运行结果：
 
-![alt 运行结果](/Users/coder/desktop/Gradle_img/gra9.png)
+![alt 运行结果](./Gradle_img/gra9.png)
 
 ### 7、任务操纵
 
