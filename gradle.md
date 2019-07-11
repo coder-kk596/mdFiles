@@ -1,17 +1,17 @@
-#一、Gradle 简介
+# 一、Gradle 简介
 是一个基于 JVM 附有突破性构建工具。
-#二、Gradle 概述
+# 二、Gradle 概述
 
-#三、配置Gradle环境
-###1、官网上下载 Gradle 最新发布包
+# 三、配置Gradle环境
+### 1、官网上下载 Gradle 最新发布包
 [http://services.gradle.org/distributions/](http://services.gradle.org/distributions/)
 
 ![alt 下载发布包](https://github.com/coder-kk596/pro071101/blob/master/gradle_img/gra1.png?raw=true)
 
-###2、解压 ZIP 文件
+### 2、解压 ZIP 文件
 将解压后的文件放到`/usr/local` 下 
 
-###3、配置环境变量
+### 3、配置环境变量
 #### 将 gradle/bin 添加到 PATH 环境变量中 
 `vi ./.bash_profile`
 
@@ -147,4 +147,3 @@ Gradle 脚本采用 Groovy 书写
 ![alt 运行结果](./Gradle_img/gra9.png)
 
 ### 7、任务操纵
-
