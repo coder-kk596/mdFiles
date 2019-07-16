@@ -144,6 +144,6 @@ Gradle 脚本采用 Groovy 书写
 命令：`gradle -q task0|task1|task2|task3`
 运行结果：
 
-![alt 运行结果](./Gradle_img/gra9.png)
+![alt 运行结果](https://github.com/coder-kk596/md_img/blob/master/Gradle_img/gra9.png?raw=true)
 
 ### 7、任务操纵
